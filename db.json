@@ -1,0 +1,34 @@
+{
+  "employees": [
+    {
+      "id": "1",
+      "name": "Amal mon",
+      "email": "amal@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "2",
+      "name": "Jishnu",
+      "email": "jishnu@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "3",
+      "name": "Arya",
+      "email": "arya@gmail.com",
+      "status": "1"
+    },
+    {
+      "id": "4",
+      "name": "Rahul",
+      "email": "rahul@gmail.com",
+      "status": "0"
+    },
+    {
+      "id": "5",
+      "name": "Ammu",
+      "email": "ammu@gmail.com",
+      "status": "1"
+    }
+  ]
+}
